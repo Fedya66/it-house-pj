@@ -16,19 +16,19 @@ export const Reviews: React.FC = () => {
       name: "Aziz Karimov",
       course: "Front-end Development",
       rating: 5,
-      text: "IT School da Front-end kursini tugatdim. Ustozlar juda professional va sabr-toqatli. Hozir Google da junior developer sifatida ishlayman. Rahmat!",
+      text: "IT HOUSE da Front-end kursini tugatdim. Ustozlar juda professional va sabr-toqatli. Hozir Google da junior developer sifatida ishlayman. Rahmat!",
       image: "https://images.pexels.com/photos/3785104/pexels-photo-3785104.jpeg?auto=compress&cs=tinysrgb&w=150",
       job: "Junior Developer @ Google",
-      fullReview: "IT School da o'tkazgan 6 oy davomida juda ko'p narsalarni o'rgandim. Ustozlar har doim yordam berishga tayyor edi. Amaliy loyihalar ustida ishlash imkoniyati berdi. Hozir Google kompaniyasida junior developer sifatida ishlayman va bu IT School tufayli mumkin bo'ldi."
+      fullReview: "IT HOUSE da o'tkazgan 6 oy davomida juda ko'p narsalarni o'rgandim. Ustozlar har doim yordam berishga tayyor edi. Amaliy loyihalar ustida ishlash imkoniyati berdi. Hozir Google kompaniyasida junior developer sifatida ishlayman va bu IT School tufayli mumkin bo'ldi."
     },
     {
-      name: "Madina Sultanova",
-      course: "UI/UX Design",
+      name: "Dior Azimov",
+      course: "AI",
       rating: 5,
       text: "Dizayn kursidan juda ko'p narsalarni o'rgandim. Amaliy loyihalar ustida ishladik va portfolio yaratdik. Hozir freelancer sifatida yaxshi daromad qilyapman.",
       image: "https://images.pexels.com/photos/3782218/pexels-photo-3782218.jpeg?auto=compress&cs=tinysrgb&w=150",
       job: "Freelance Designer",
-      fullReview: "UI/UX dizayn kursi hayotimni butunlay o'zgartirdi. Figma va Adobe XD dasturlarini professional darajada o'rgandim. Hozir oyiga $1500 gacha daromad qilyapman freelance loyihalar orqali."
+      fullReview: "AI kursi hayotimni butunlay o'zgartirdi. AI dasturlarini professional darajada o'rgandim. Hozir oyiga $1500 gacha daromad qilyapman freelance loyihalar orqali."
     },
     {
       name: "Bekzod Rahimov",
@@ -58,7 +58,7 @@ export const Reviews: React.FC = () => {
       fullReview: "Mobile development kursi orqali React Native texnologiyasini o'rgandim. Hozir o'z startupim bor va App Store'da 50,000+ yuklab olingan ilovam mavjud."
     },
     {
-      name: "Nozima Yusupova",
+      name: "Erkin Juraev",
       course: "English for IT",
       rating: 5,
       text: "IT uchun ingliz tili kursi juda foydali bo'ldi. Texnik terminlarni o'rgandim va hozir xorijiy mijozlar bilan ishlashga qodir bo'ldim.",

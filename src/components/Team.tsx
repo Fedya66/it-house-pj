@@ -76,13 +76,13 @@ export const Team: React.FC = () => {
     },
     {
       name: "Jaloliddin Abdurahmonov",
-      role: "Mobile App Developer",
+      role: "Senior Full-stack Developer",
       speciality: "React Native, Flutter",
       experience: "4+ yil tajriba",
       image: jaloliddin,
       rating: 4.8,
       students: 75,
-      bio: "App Store va Google Play'da 20+ mobil ilova nashr etgan. Cross-platform development mutaxassisi.",
+      bio: "IOS va Google kompaniyalarida ishlagan tajribali dasturchi. 50+ loyihani muvaffaqiyatli yakunlagan.",
       skills: ["React Native", "Flutter", "iOS", "Android", "Firebase", "Redux"],
       achievements: ["Google Developer Expert", "App Store Featured Developer", "Mobile Lead @ Uzcard"],
       email: "jasur@itschool.uz",
@@ -119,7 +119,7 @@ export const Team: React.FC = () => {
 
   const handleApplyAsTeacher = () => {
     // You can implement a form or redirect to application page
-    alert("CV yuborish uchun info@itschool.uz manziliga murojaat qiling!");
+    alert("CV yuborish uchun ithouseedu@gmail.com manziliga murojaat qiling!");
   };
 
   return (
