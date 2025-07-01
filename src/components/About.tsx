@@ -51,7 +51,7 @@ export const About: React.FC = () => {
         <div className="max-w-6xl mx-auto">
           <div className="text-center mb-16">
             <h2 className="text-4xl md:text-5xl font-bold text-black dark:text-white mb-4">
-              <span className="text-red-600">Maktab haqida</span>
+              <span className="text-red-600">IT HOUSE haqida</span>
             </h2>
             <p className="text-xl text-black/70 dark:text-white/70 max-w-3xl mx-auto leading-relaxed">
               IT HOUSE - bu zamonaviy texnologiyalar va sifatli ta'lim tizimini birlashtirgan 
